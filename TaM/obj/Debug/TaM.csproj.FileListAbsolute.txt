@@ -1,0 +1,18 @@
+D:\THAO ANH\TaM\TaM\bin\Debug\TaM.exe.config
+D:\THAO ANH\TaM\TaM\bin\Debug\TaM.exe
+D:\THAO ANH\TaM\TaM\bin\Debug\TaM.pdb
+D:\THAO ANH\TaM\TaM\obj\Debug\TaM.csprojAssemblyReference.cache
+D:\THAO ANH\TaM\TaM\obj\Debug\TaM.csproj.CoreCompileInputs.cache
+D:\THAO ANH\TaM\TaM\obj\Debug\TaM.exe
+D:\THAO ANH\TaM\TaM\obj\Debug\TaM.pdb
+D:\THAO ANH\STUDY\TaM\TaM\obj\Debug\TaM.csprojAssemblyReference.cache
+D:\THAO ANH\STUDY\TaM\TaM\obj\Debug\TaM.csproj.CoreCompileInputs.cache
+D:\THAO ANH\STUDY\TaM\TaM\obj\Debug\TaM.exe
+D:\THAO ANH\STUDY\TaM\TaM\obj\Debug\TaM.pdb
+D:\THAO ANH\STUDY\OneDrive - Ara Institute of Canterbury\BCDE222 C#.NET\Assignment\assigment 2\TaM\TaM\bin\Debug\TaM.exe.config
+D:\THAO ANH\STUDY\OneDrive - Ara Institute of Canterbury\BCDE222 C#.NET\Assignment\assigment 2\TaM\TaM\bin\Debug\TaM.exe
+D:\THAO ANH\STUDY\OneDrive - Ara Institute of Canterbury\BCDE222 C#.NET\Assignment\assigment 2\TaM\TaM\bin\Debug\TaM.pdb
+D:\THAO ANH\STUDY\OneDrive - Ara Institute of Canterbury\BCDE222 C#.NET\Assignment\assigment 2\TaM\TaM\obj\Debug\TaM.csprojAssemblyReference.cache
+D:\THAO ANH\STUDY\OneDrive - Ara Institute of Canterbury\BCDE222 C#.NET\Assignment\assigment 2\TaM\TaM\obj\Debug\TaM.csproj.CoreCompileInputs.cache
+D:\THAO ANH\STUDY\OneDrive - Ara Institute of Canterbury\BCDE222 C#.NET\Assignment\assigment 2\TaM\TaM\obj\Debug\TaM.exe
+D:\THAO ANH\STUDY\OneDrive - Ara Institute of Canterbury\BCDE222 C#.NET\Assignment\assigment 2\TaM\TaM\obj\Debug\TaM.pdb
